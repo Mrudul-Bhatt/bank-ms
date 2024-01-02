@@ -1,5 +1,7 @@
 {
 	"java.compile.nullAnalysis.mode": "automatic",
-	"java.configuration.updateBuildConfiguration": "automatic"
+	"java.configuration.updateBuildConfiguration": "automatic",
+	"editor.fontFamily": "Monaco",
+	"editor.tabSize": 4
 }
 
