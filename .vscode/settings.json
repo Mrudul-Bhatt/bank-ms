@@ -1,8 +1,9 @@
 {
 	"java.compile.nullAnalysis.mode": "automatic",
 	"java.configuration.updateBuildConfiguration": "automatic",
-	"editor.fontFamily": "Monaco",
+	"editor.fontFamily": "JetBrains Mono",
 	"editor.tabSize": 4,
-	"java.debug.settings.onBuildFailureProceed": true
+	"java.debug.settings.onBuildFailureProceed": true,
+	"editor.fontSize": 12
 }
 
