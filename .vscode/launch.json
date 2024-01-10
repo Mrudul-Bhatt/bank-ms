@@ -1,0 +1,36 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "GatewayserverApplication",
+			"request": "launch",
+			"mainClass": "com.mrudul.gatewayserver.GatewayserverApplication",
+			"projectName": "gatewayserver"
+		},
+		{
+			"type": "java",
+			"name": "AccountsApplication",
+			"request": "launch",
+			"mainClass": "com.mrudul.accounts.AccountsApplication",
+			"projectName": "accounts"
+		},
+		{
+			"type": "java",
+			"name": "CardsApplication",
+			"request": "launch",
+			"mainClass": "com.mrudul.cards.CardsApplication",
+			"projectName": "cards"
+		},
+		{
+			"type": "java",
+			"name": "Spring Boot-MessageApplication<message>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "com.mrudul.message.MessageApplication",
+			"projectName": "message",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
+
